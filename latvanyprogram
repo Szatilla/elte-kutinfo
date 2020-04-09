@@ -4,5 +4,7 @@ int main() {
    a=rand();
    if a<20000
       printf("Hello, World!");
+   else
+      printf("Hi, World!")
    return 0;
 }
