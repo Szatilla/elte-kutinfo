@@ -1,5 +1,8 @@
 #include <stdio.h>
 int main() {
-   printf("Hello, World!");
+   int = a;
+   a=rand();
+   if a<20000
+      printf("Hello, World!");
    return 0;
 }
